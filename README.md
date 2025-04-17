@@ -11,11 +11,10 @@ Esta investigación es sólo para investigación académica y aprendizaje técni
 #Las siguientes son las direcciones de descarga y los scripts de descifrado para cada paquete de instalación de la versión de Synology:
 
 ---
+### Versión armv8
 ### Instalación de paquetes [Surveillance Station](https://global.synologydownload.com/download/Package/spk/SurveillanceStation/9.2.0-11289/SurveillanceStation-armv8-9.2.0-11289.spk)
-
----
-### Script de cracking:
-```shell
+- Script de cracking::
+```
 bash <(curl -L https://gitee.com/christianswift/surveillance-station-9/raw/main/9.2.0_11289/SurveillanceStation-armv8/install_license)
 ```
 
