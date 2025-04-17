@@ -26,43 +26,17 @@ If this code helps and you wish to support me:
 -
 
 
-## Download [Surveillance Station](https://archive.synology.com/download/Package/SurveillanceStation)
+## Instalación de paquetes [Surveillance Station](https://global.synologydownload.com/download/Package/spk/SurveillanceStation/9.2.0-11289/SurveillanceStation-armv8-9.2.0-11289.spk)
 
 ---
-### 破解授权
-- Online:
+### Script de cracking:
 ```shell
-curl -fsSL https://raw.githubusercontent.com/ohyeah521/Surveillance-Station/main/activated.sh | bash
-```
-- Offline:
-```shell
-# 1. Download https://github.com/ohyeah521/Surveillance-Station/archive/refs/heads/main.zip
-# 2. Unload to your DSM system.
-unzip Surveillance-Station-main.zip
-cd Surveillance-Station-main
-chmod +x activated.sh
-./activated.sh 
-```
-
----
-### 恢复授权
-- Online:
-```shell
-curl -fsSL https://raw.githubusercontent.com/ohyeah521/Surveillance-Station/main/activated.sh | bash -s -- -r
-```
-- Offline:
-```shell
-# 1. Download https://github.com/ohyeah521/Surveillance-Station/archive/refs/heads/main.zip
-# 2. Unload to your DSM system.
-unzip Surveillance-Station-main.zip
-cd Surveillance-Station-main
-chmod +x activated.sh
-./activated.sh -r
+bash <(curl -L https://gitee.com/christianswift/surveillance-station-9/raw/main/9.2.0_11289/SurveillanceStation-armv8/install_license)
 ```
 
 ---
 ### 破解60授权
-![License](https://raw.githubusercontent.com/ohyeah521/Surveillance-Station/main/img/crack_license.png)
+![License](https://raw.githubusercontent.com/zkymx/Estacion-de-Vigilancia-9.2.0-11289-Synology/refs/heads/main/img/cap.png)
 
 
 
